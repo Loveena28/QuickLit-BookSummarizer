@@ -69,4 +69,4 @@ The user interface of **QuickLit** is straightforward and consists of the follow
 
 - A "Save" button to download summary and book cover's image as pdf.
 
-![Screenshot](home.png)
+![Screenshot](snapshots/home.png)
