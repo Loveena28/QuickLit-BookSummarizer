@@ -57,4 +57,16 @@ The QuickLit is a web application built with Angular for the frontend and Python
 
 ## User Interface
 
+The user interface of **QuickLit** is straightforward and consists of the following elements:
 
+- A title at the top of the window, welcoming users to the application.
+
+- An "Choose File" button for selecting an image.
+
+- A "Summarize" button to initiate the summary generation.
+
+- A loading indicator that appears during summary generation.
+
+- A "Save" button to download summary and book cover's image as pdf.
+
+![Screenshot](home.png)
